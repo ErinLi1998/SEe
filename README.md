@@ -9,3 +9,6 @@ this is my header
 $git init
 Initialized empty git repository in /Users/.git/
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
